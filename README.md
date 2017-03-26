@@ -1,7 +1,7 @@
 # PiFace Digital 2 Modul
 Das Programm stellt verschiedene Funktionen für das PiFace Digital 2 Modul bereit<br>
 - einzelnen Eingang einlesen<br>
-- einzelnen Ausgang einlsen<br>
+- einzelnen Ausgang schreiben<br>
 - 8 Eingänge einlesen<br>
 - 8 Ausgänge schreiben<br>
 - 16 Zeiten starten/auswerten/rücksetzen<br>
